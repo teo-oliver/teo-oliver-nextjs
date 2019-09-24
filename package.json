@@ -1,0 +1,18 @@
+{
+  "name": "teo-oliver",
+  "version": "1.0.0",
+  "description": "Teo Oliver portifolio/website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Teo Oliver",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
